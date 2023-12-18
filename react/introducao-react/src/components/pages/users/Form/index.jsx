@@ -1,6 +1,10 @@
 // import { useUsersForm } from "./useUsersForm";
 
+<<<<<<< HEAD
 export function Form({user, handleUser, handleSubmit}) {
+=======
+export function Form({ user, handleUser, handleSubmit }) {
+>>>>>>> 2c42617e3df7e6d9af6ad1d17ff2c7c94255ac6d
   // const { user, handleUser, handleSubmit } = useUsersForm();
 
   return (
